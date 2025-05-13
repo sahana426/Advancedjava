@@ -14,7 +14,7 @@
 
 [LinkedListReverseIterator ]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20161524.png)
 
-[]->()
+[InsertAtEndLinkedList]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20161604.png)
 
 []->()
 

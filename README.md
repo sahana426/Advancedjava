@@ -18,6 +18,6 @@
 
 [SwapElementsLinkedList ]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20161705.png)
 
-[]->()
+[DisplayElementsAndPositions]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20161752.png)
 
 

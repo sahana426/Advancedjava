@@ -8,7 +8,7 @@ ARRAYLIST PROGRAM OUTPUT:
 
 [RemoveColors o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/program1b(2).png).
 
-[Extractcolors o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20160033.png).
+[Extractcolors o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/program1b(4).png).
 
 [DeleteNthElement o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20160042.png)
 

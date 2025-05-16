@@ -2,7 +2,7 @@ ARRAYLIST PROGRAM OUTPUT:
 
 [ArrayList o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/Program1a.png).
 
-[SearchColor o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20155959.png).
+[SearchColor o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/program1b(1).png).
 
 [SortColors o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20160013.png).
 

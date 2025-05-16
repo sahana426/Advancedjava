@@ -12,7 +12,7 @@ ARRAYLIST PROGRAM OUTPUT:
 
 [DeleteNthElement o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20160042.png)
 
-LINKEDLIST OUTPUT:
+LINKEDLIST PROGRAM OUTPUT:
 
 [LinkedListIteratorStartFromPosition ]->(https://github.com/sahana426/Advancedjava/blob/main/Screenshot%202025-05-13%20161437.png)
 

@@ -24,4 +24,14 @@ LINKEDLIST PROGRAM OUTPUT:
 
 [program1c(5) o/p link ]->(https://github.com/sahana426/Advancedjava/blob/main/program1c(5).png
 
+STRING OPERATIONS OUTPUT:
+
+[program2a o/p link ]->(https://github.com/sahana426/Advancedjava/blob/main/program2a.png)
+
+[program2b o/p link ]->(https://github.com/sahana426/Advancedjava/blob/main/program2b.png)
+
+
+
+
+
 

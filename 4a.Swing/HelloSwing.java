@@ -2,7 +2,7 @@ package stringoperations;
 import javax.swing.*;
 import java.awt.*;
 
-public class program4a {
+public class HelloSwing {
 
     public static void main(String[] args) {
         // Create a JFrame

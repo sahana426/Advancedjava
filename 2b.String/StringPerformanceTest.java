@@ -1,5 +1,5 @@
 package StringPerformanceTest;
-public class program2b {
+public class StringOperationsDemo {
 
     public static void main(String[] args) {
         int iterations = 10000;

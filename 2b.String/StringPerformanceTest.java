@@ -1,4 +1,4 @@
-package stringoperations;
+package StringPerformanceTest;
 public class program2b {
 
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package stringoperations;
 import javax.swing.*;
 import java.awt.*;
 
-public class program5b {
+public class ColorTabbedPane {
 
     public static void main(String[] args) {
         // Create the main frame

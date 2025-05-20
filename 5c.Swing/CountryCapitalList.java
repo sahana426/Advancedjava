@@ -3,7 +3,7 @@ import javax.swing.*;
 import javax.swing.event.*;
 import java.util.HashMap;
 
-public class program5c {
+public class CountryCapitalList {
 
     public static void main(String[] args) {
         // Country names

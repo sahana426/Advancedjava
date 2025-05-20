@@ -2,4 +2,4 @@
 
 [SessionManagement(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7a.J2EE/SessionManagement(2).png)
 
-[SessionManagement(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7a.JSP/SessionManagement(3).png)
+[SessionManagement(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7a.J2EE/SessionManagement(3).png)

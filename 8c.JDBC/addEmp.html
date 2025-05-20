@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Employee</title>
+</head>
+<body>
+    <h2>Add Employee</h2>
+    <form action="AddEmp.jsp" method="post">
+        <label for="empno">Employee No:</label>
+        <input type="number" name="empno" required><br><br>
+
+        <label for="empname">Employee Name:</label>
+        <input type="text" name="empname" required><br><br>
+
+        <label for="basicsalary">Basic Salary:</label>
+        <input type="number" name="basicsalary" step="0.01" required><br><br>
+
+        <input type="submit" value="Add Employee">
+    </form>
+    <p><a href="ReportEmp.jsp">View Salary Report</a></p>
+</body>
+</html>

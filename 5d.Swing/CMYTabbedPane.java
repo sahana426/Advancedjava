@@ -2,7 +2,7 @@ package stringoperations;
 import javax.swing.*;
 import java.awt.*;
 
-public class program5d {
+public class CMYTabbedPane {
 
     public static void main(String[] args) {
         // Create JFrame

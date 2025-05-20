@@ -1,7 +1,7 @@
 package stringoperations;
 import java.util.Scanner;
 
-public class program3a {
+public class StringHandlingDemo {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

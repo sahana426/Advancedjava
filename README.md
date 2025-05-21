@@ -153,6 +153,50 @@ UPDATECOFFEE JSP PROGRAM 8B OUTPUT:
 [updatecoffeee(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8b.jsp-coffee-update/updatecoffee(3).png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ADDEMPLOYEE JDBC PROGRAM 8C OUTPUT:
+
+[Addemployee(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8c.JDBC-add-employee/Addemployee(1).png)
+
+[Addemployee(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8c.JDBC-add-employee/Addemployee(2).png)
+
+[Addemployee(3) o/p link]->>(https://github.com/sahana426/Advancedjava/blob/main/8c.JDBC-add-employee/Addemployee(3).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UPDATEEMPLOYEE JDBC PROGRAM 8D OUTPUT:
+
+[updateemployee(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8d.JDBC-update-employee/updateemployee(1).png)
+
+[updateemployee(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8d.JDBC-update-employee/updateemployee(2).png)
+
+[updateemployee(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8d.JDBC-update-employee/updateemployee(3).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DELETECOFFEE JSP PROGRAM 9A OUTPUT:
+
+[Deletecoffee(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9a.JSP-DeleteCoffeeProduct/Deletecoffee(1).png)
+
+[Deletecoffee(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9a.JSP-DeleteCoffeeProduct/Deletecoffee(2).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SEARCHCOFFEE JSP PROGRAM 9B OUTPUT:
+
+[Searchcoffee(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9b.JSP-CoffeeNameStartsWithD/Searchcoffee(1).png)
+
+[Searchcoffee(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9b.JSP-CoffeeNameStartsWithD/Searchcoffee(2).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EMPINSERTANDREPORT JDBC PROGRAM  9C OUTPUT:
+
+[EmpInsertAndReport(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9c.JDBC-EmpInsertAndReport/EmpInsertAndReport(1).png)
+
+[EmpInsertAndReport(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9c.JDBC-EmpInsertAndReport/EmpInsertAndReport(2).png)
+
+[EmpInsertAndReport(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9c.JDBC-EmpInsertAndReport/EmpInsertAndReport(3).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 

@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class program4c {
+public class ClockHourGlassApp {
 
     public static void main(String[] args) {
         // Create frame

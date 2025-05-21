@@ -194,9 +194,11 @@ EMPINSERTANDREPORT JDBC PROGRAM  9C OUTPUT:
 [EmpInsertAndReport(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9c.JDBC-EmpInsertAndReport/EmpInsertAndReport(3).png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DELETEEMPLOYEE JDBC PROGRAM 9D OUTPUT:
 
+[deleteemployee(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9d.JDBC-delete-employee-report/deleteemployee(1).png)
 
-
+[deleteemployee(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/9d.JDBC-delete-employee-report/deleteemployee(2).png)
 
 
 

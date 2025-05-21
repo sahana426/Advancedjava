@@ -117,10 +117,55 @@ COOKIESERVLET 6B OUTPUT:
 PRIMESERVLET PROGRAM 6C OUTPUT:
 
 [PrimeServlet(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/6c.servlet-prime-checker/PrimeServlet.png)
-
+ 
 [PrimeServlet(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/6c.servlet-prime-checker/PrimeServlet(2).png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SESSIONMANAGEMENT JSP PROGRAM 7A OUTPUT:
+
+[SessionManagement(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7a.jsp-session-management/SessionManagement(1).png)
+
+[SessionManagement(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7a.jsp-session-management/SessionManagement(2).png)
+
+[SessionManagement(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7a.jsp-session-management/SessionManagement(3).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+COOKIEMANAGEMENT JSP PROGRAM 7B OUTPUT:
+
+[CookieManagement(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7b.jsp-cookie-management/CookieManagement(2).png)
+
+[CookieManagement(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/7b.jsp-cookie-management/Cookie%20Management(1).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+COFFEEINSERT JSP PROGRAM 8A OUTPUT:
+
+[coffeeservlet(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8a.jsp-coffee-insert/coffeeservlet(1).png)
+
+[coffeeservlet(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8a.jsp-coffee-insert/coffeeservlet(2).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UPDATECOFFEE JSP PROGRAM 8B OUTPUT:
+
+[updatecoffeee(1) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8b.jsp-coffee-update/updatecoffeee(1).png)
+
+[updatecoffeee(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8b.jsp-coffee-update/updatecoffee(2).png)
+
+[updatecoffeee(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8b.jsp-coffee-update/updatecoffee(3).png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

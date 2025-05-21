@@ -2,4 +2,4 @@
 
 [updateemployee(2) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8d.JDBC-update-employee/updateemployee(2).png)
 
-[updateemployee(3) o/p link]->()
+[updateemployee(3) o/p link]->(https://github.com/sahana426/Advancedjava/blob/main/8d.JDBC-update-employee/updateemployee(3).png)
